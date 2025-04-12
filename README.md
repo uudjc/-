@@ -11,6 +11,5 @@
 ![image](https://github.com/user-attachments/assets/36f246fe-3c4f-4caa-af95-05dac4e8f6b9)
 
 
-删除后对应的文件结构：
-![image](https://github.com/user-attachments/assets/3d39a27a-8a3e-40ca-b078-1d0450152fc1)
+
 
