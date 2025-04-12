@@ -4,4 +4,31 @@
 3.model/dlib_model下删除了dlib_face_recognition_resnet_model_v1.dat和shape_predictor_68_face_landmarks.dat
 4.我删除了mv下的视频。
 5.pic下的图片也删除了。
-6.out.mp4也删除了
+6.out.mp4也删除了。
+
+原始的部分文件结构
+demonstration-system
+├── database
+│   └── database.db
+├── demo
+│   └── output_frames
+│       └── 语义分割图
+├── model
+│   └── dlib_model
+│       ├── dlib_face_recognition_resnet_model_v1.dat
+│       └── shape_predictor_68_face_landmarks.dat
+├── mv
+│   └── 视频文件
+├── pic
+│   └── 图片文件
+└── out.mp4
+
+删除后对应的文件结构
+demonstration-system
+├── database
+├── demo
+│   └── output_frames
+├── model
+│   └── dlib_model
+├── mv
+├── pic
