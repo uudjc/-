@@ -7,28 +7,9 @@
 6.out.mp4也删除了。
 
 原始的部分文件结构
-demonstration-system
-├── database
-│   └── database.db
-├── demo
-│   └── output_frames
-│       └── 语义分割图
-├── model
-│   └── dlib_model
-│       ├── dlib_face_recognition_resnet_model_v1.dat
-│       └── shape_predictor_68_face_landmarks.dat
-├── mv
-│   └── 视频文件
-├── pic
-│   └── 图片文件
-└── out.mp4
+![image](https://github.com/user-attachments/assets/36f246fe-3c4f-4caa-af95-05dac4e8f6b9)
+
 
 删除后对应的文件结构
-demonstration-system
-├── database
-├── demo
-│   └── output_frames
-├── model
-│   └── dlib_model
-├── mv
-├── pic
+![image](https://github.com/user-attachments/assets/3d39a27a-8a3e-40ca-b078-1d0450152fc1)
+
